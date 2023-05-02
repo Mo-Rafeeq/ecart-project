@@ -1,0 +1,10 @@
+
+
+
+
+
+
+
+
+10. To define routes for client 
+11.create controller folder inorder to define logic to resolve the api request
