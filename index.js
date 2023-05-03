@@ -14,7 +14,7 @@ require('./db/connection')
 const router = require('./routes/router')
 
 //to store port number
-const PORT = 3000
+const PORT = 3000 || process.env.PORT
 
 //create server app
 const server = express()
